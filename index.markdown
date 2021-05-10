@@ -1,6 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+My name is Dan. I'm a Junior Unity Developer.
+I have several projects behind my back and work experience.
 
-layout: home
----

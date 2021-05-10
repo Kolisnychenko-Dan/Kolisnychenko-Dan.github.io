@@ -30,12 +30,7 @@ twitter_username: jekyllrb
 github_username:  Kolisnychenko.Dan2019@gmail.com
 
 # Build settings
-<<<<<<< HEAD
-theme: minima
-remote_theme: cayman
-=======
 theme: jekyll-theme-cayman
->>>>>>> 7aada8777aca0cbb216795a099a476e22250ae32
 plugins:
   - jekyll-feed
 
